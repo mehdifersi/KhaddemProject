@@ -2,19 +2,19 @@ pipeline {
     agent any
 
     stages {
-        stage('Stage 1') {
+        stage('Heihachi') {
             steps {
                 echo 'stage 1'
             }
         }
         
-        stage('Stage 2') {
+        stage('Mishima') {
             steps {
                 echo 'stage 2'
             }
         }
         
-        stage('Stage 3') {
+        stage('Is Dead') {
             steps {
                 echo 'stage 3'
             }
